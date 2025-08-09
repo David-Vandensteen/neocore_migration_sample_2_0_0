@@ -164,6 +164,7 @@ When using this repository for testing:
 
 ## Related Documentation
 
+- **NeoCore Repository**: https://github.com/David-Vandensteen/neocore
 - **Migration Guide**: `MIGRATION_GUIDE_v2Tov3.md` in main repository
 - **Migration Script**: `bootstrap/scripts/project/upgrade.bat`
 - **NeoCore v3 Documentation**: Main repository README files
