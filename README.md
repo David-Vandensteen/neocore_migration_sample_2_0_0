@@ -165,7 +165,7 @@ When using this repository for testing:
 ## Related Documentation
 
 - **Migration Guide**: `MIGRATION_GUIDE_v2Tov3.md` in main repository
-- **Migration Script**: `bootstrap/scripts/project/_upgrade.ps1`
+- **Migration Script**: `bootstrap/scripts/project/upgrade.bat`
 - **NeoCore v3 Documentation**: Main repository README files
 
 ---
