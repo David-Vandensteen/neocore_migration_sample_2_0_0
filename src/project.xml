@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
   <name>test_mig2_0_0</name>
-  <version>1.0.0</version>
+  <version>1.5.3</version>
   <makefile>Makefile</makefile>
   <neocorePath>..\neocore</neocorePath>
   <buildPath>..\build</buildPath>
